@@ -28,3 +28,6 @@ GitHub.sublime-settings
 
 env.
 .env
+Procfile
+requirements.txt
+runtime.txt
