@@ -1,1 +1,0 @@
-web: gunicorn fruitsbyregion.wsgi --log-file -
