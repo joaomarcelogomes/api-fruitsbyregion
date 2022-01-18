@@ -6,6 +6,7 @@ era o desenvolvimento de uma API que possuísse 2 tabelas num banco de dados SQL
 apenas um campo "name" e a outra tabela deveria se chamar Fruit, contendo os campos "name" e "region" sendo este último, uma ForeignKey para a tabela Region. 
 Cada fruta pertence a uma região. O deploy do app foi feito no heroku e o mesmo está disponível para utilização em: <i> https://api-fruitsbyregion.herokuapp.com/ </i>
 
+
 Este repositório tem como função única e exclusiva a demonstração do código realizado por mim. 
 
 ### Author
